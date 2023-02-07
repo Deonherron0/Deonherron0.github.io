@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+<head>
+        <title>About Me!</title>
+        <style>
+            * {
+                font-family:arial
+            }
+
+            h1,h2,h3,h4{
+                color:rgb(255, 255, 255);
+                background-color: rgb(8, 3, 248);
+              }
+            p { color: rgb(255, 255, 255);
+                background-color: rgb(8, 3, 248);
+            }
+            #card {
+                background-color: blue;
+            }
+
+            Ul,li {
+                color:rgb(255, 255, 255);
+                background-color:rgb(8, 3, 248);
+            }
+        </style>
+</head>
+<body>
+    <div id="card">
+    <h1>Hey im Deon!</h1>
+    <p>Hello, my name is Deon Herron and i am 16 years old 
+        and i am a junior that attends craig high school. </p>
+
+        <h2>Things i like!</h2>
+        <p>There are a lot of things that i enjoy doing 
+            i'll tell you some examples!
+        </p>
+        <p>For example some of my favorite songs are below!</p>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpsCmbVOD3JhHWKt7OY36f7It7MnXLjq21xw:https://images.unsplash.com/photo-1610041321327-b794c052db27%3Fixlib%3Drb-4.0.3%26ixid%3DMnwxMjA3fDB8MHxzZWFyY2h8MTh8fG5vJTIwY2N8ZW58MHx8MHx8%26w%3D1000%26q%3D80&usqp=CAU"
+                    alt="Headphones image" width="303" height="252">
+        <ul>
+            <li> J'san - Chinese food</li>
+            <li> Secret crates - Springtine Stroll</li>
+            <li> Sofasound - With All I Am</li>
+            <li> Refeeld - Cant Wait</li>
+            <li> S N U G - Lost In Echoes</li>
+            <li> Misha x Monma - Moon</li>
+            <li> Engelwood - Stadium Sauce</li>
+            <li> Chaosbeatz - Afterschool</li>
+        </ul>
+        <P> The list goes on and on...</P>
+
+        <h3>My School Schedule!</h3>
+        <p>Here i will show you the classes i have in
+            in the current semester of school!
+        </p>
+        <ol>
+            <li>English 11</li>
+            <li>Algebra 2</li>
+            <li>Manufacturing systems</li>
+            <li>Core Physical education 10,11,12</li>
+            <li>Earth Science</li>
+            <li>Web Design</li>
+            <li>Movies and music</li>
+            <li>United States history</li>
+        </ol>
+        <p> And Those are my classes for this semester!</p>
+</div>
+</body>
+</html>
