@@ -28,7 +28,11 @@
     <div id="card">
     <h1>Hey im Deon!</h1>
     <p>Hello, my name is Deon Herron and i am 16 years old 
-        and i am a junior that attends craig high school. </p>
+        and i am a junior that attends craig high school.
+        I enjoy doing a lot of things when have the spare time.
+         i like listening to music, i like watching anime, 
+        i enjoy producing lo-fi beats, and i also like playing/ reviewing games.
+        There's a lot of things i enjoy doing in my spare time.</p>
 
         <h2>Things i like!</h2>
         <p>There are a lot of things that i enjoy doing 
@@ -53,6 +57,8 @@
         <p>Here i will show you the classes i have in
             in the current semester of school!
         </p>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5IPXvcy1jH4HFrSypWyf3teARgkb5j-A8R1PzfF-x&s" 
+                    alt="Calander schedule image" width="303" height="252">
         <ol>
             <li>English 11</li>
             <li>Algebra 2</li>
@@ -64,6 +70,16 @@
             <li>United States history</li>
         </ol>
         <p> And Those are my classes for this semester!</p>
+
+
+        <h4>Other Things.</h4>
+        <p>Contact me if there are any more questions!
+            My email is Herron.d@stu.janesville.k12.wi.us.
+            There's a link below!
+        </p>
+        <a href="herron.d@stu.janesville.k12.wi.us">
+            Contact Me!
+        </a>
 </div>
 </body>
 </html>
